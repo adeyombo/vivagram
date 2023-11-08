@@ -1,2 +1,3 @@
-# vivagram
-Next Gen Social
+# VivaGram [React + TypeScript + Vite]
+
+A modern social media platform
